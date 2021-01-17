@@ -9,6 +9,7 @@ student["phone"]=99955;
 student["Cinema"]="SuperHit";
 student["Movie"]="fatakesto";
 student["Movie"]="fatakesto na";
+student.name='Nasir';
 console.log(student);
 
 
