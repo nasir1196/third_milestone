@@ -19,5 +19,5 @@ function checkPrime(n) {
   return "This Number is a Prime Number";
 }
 
-let checkResult = checkPrime(17);
+let checkResult = checkPrime(15);
 console.log(checkResult);
