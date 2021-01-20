@@ -13,8 +13,7 @@ y = x - y;
 x = x - y;
 console.log("x = ", x, ", y = ", y);
 
-let p=12;
-let q=15;
-[p,q]=[q,p];
-console.log("p = ",p,', q = ',q);
-
+let p = 12;
+let q = 15;
+[p, q] = [q, p];
+console.log("p = ", p, ", q = ", q);

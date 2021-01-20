@@ -4,7 +4,7 @@ let result2 = Math.floor(num);
 let result3 = Math.round(num);
 console.log(result3);
 
-console.log('====================================');
+console.log("====================================");
 
 for (let i = 0; i < 10; i++) {
   let randomNumber = Math.random() * 6;
