@@ -19,5 +19,18 @@ function checkPrime(n) {
   return "This Number is a Prime Number";
 }
 
-let checkResult = checkPrime(15);
+let checkResult = checkPrime(17);
 console.log(checkResult);
+
+
+// even odd function 
+function evenOdd(n){
+  let i=2;
+  if(n%i==0){
+    return "this number is Even number";
+  }
+  else{
+    return "This number is Odd number";
+  }
+}
+console.log(evenOdd(17));
